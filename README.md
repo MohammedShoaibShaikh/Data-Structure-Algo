@@ -1,2 +1,2 @@
-# Data-Structure-Algo
+# Data-Structure-Algorithm
 ## Cpp , Java & Python
